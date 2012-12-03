@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>web-socket-js</artifactId>
-    <version>10410eb45a-SNAPSHOT</version>
+    <version>10410eb45a</version>
     <name>web-socket-js</name>
     <description>WebJar for web-socket-js</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/web-socket-js</url>
         <connection>scm:git:https://github.com/webjars/web-socket-js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/web-socket-js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>web-socket-js-10410eb45a</tag>
     </scm>
 
     <developers>
